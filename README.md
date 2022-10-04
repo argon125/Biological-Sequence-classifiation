@@ -7,4 +7,4 @@ The first task in this direction is to convert the sequences to vector represent
 The second task is to find which family the sequence belongs to. In this work, deep learning-based architectures are proposed to do the task. 
 A comparative study on how effective various deep learning architectures for this problem is also discussed in this work.
 
-Link to Paper: Will be available shortly
+Link to Paper: https://link.springer.com/chapter/10.1007/978-981-19-2821-5_44
