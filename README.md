@@ -12,7 +12,7 @@ If you find this work useful, please cite:
 ### Sivasubramanian, Arrun, et al. "Biological Sequence Classification Using Deep Learning Architectures." International Conference on Innovative Computing and Communications. Springer, Singapore, 2023.
 
 
-Co-authors: Prashanth VR, Deppt. of CSE-AI, Amrita School of Engineering, Coimbatore
+Co-authors: Prashanth VR, Dept. of CSE-AI, Amrita School of Engineering, Coimbatore
 #####    Guides: Dr. Sachin Kumar S, Assistant Prof. Amrita School of Engineering
 #####    Dr. Soman KP, Associate Dean and HOD, Amrita School of Engieering
 Link to Paper: https://link.springer.com/chapter/10.1007/978-981-19-2821-5_44
